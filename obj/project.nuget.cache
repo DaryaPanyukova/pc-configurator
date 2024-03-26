@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZKyav0xfMM0ncQ1of2QoHjt5geSpBkeEMe+80s7KSHG4TejUICzREwI1xFXZ5lPR7nBz3nyTbTR36nYXGdf6vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darya\\Desktop\\заливка шарпов\\PcConfigurator\\PcConfigurator\\PcConfigurator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darya\\.nuget\\packages\\microsoft.codecoverage\\17.10.0-preview-24080-01\\microsoft.codecoverage.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0-preview-24080-01\\microsoft.net.test.sdk.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0-preview-24080-01\\microsoft.testplatform.objectmodel.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0-preview-24080-01\\microsoft.testplatform.testhost.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\xunit\\2.7.0\\xunit.2.7.0.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\xunit.analyzers\\1.11.0\\xunit.analyzers.1.11.0.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\xunit.assert\\2.7.0\\xunit.assert.2.7.0.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\xunit.core\\2.7.0\\xunit.core.2.7.0.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\xunit.extensibility.core\\2.7.0\\xunit.extensibility.core.2.7.0.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\xunit.extensibility.execution\\2.7.0\\xunit.extensibility.execution.2.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

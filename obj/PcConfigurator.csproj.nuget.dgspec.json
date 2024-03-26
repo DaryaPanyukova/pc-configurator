@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Darya\\Desktop\\заливка шарпов\\PcConfigurator\\PcConfigurator\\PcConfigurator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Darya\\Desktop\\заливка шарпов\\PcConfigurator\\PcConfigurator\\PcConfigurator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darya\\Desktop\\заливка шарпов\\PcConfigurator\\PcConfigurator\\PcConfigurator.csproj",
+        "projectName": "PcConfigurator",
+        "projectPath": "C:\\Users\\Darya\\Desktop\\заливка шарпов\\PcConfigurator\\PcConfigurator\\PcConfigurator.csproj",
+        "packagesPath": "C:\\Users\\Darya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darya\\Desktop\\заливка шарпов\\PcConfigurator\\PcConfigurator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0-preview-24080-01, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Darya\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
